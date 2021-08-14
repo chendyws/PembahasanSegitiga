@@ -1,0 +1,35 @@
+body{
+	background: #605C3C; 
+	font-family: sans-serif;
+}
+.perhitungan{
+	width: 345px; 
+	background: #3C3B3F; 
+	margin: 100px auto;
+	padding: 20px 20px 20px 20px; 
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px 0px ##ee9ca7;
+} 
+.tombol{
+	background: #605C3C;
+	font-family: "Comic Sans MS";
+	border-top: none; border-right: none; border-left: none; 
+	border-bottom:4px solid #eee;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #000;
+	font-size: 17pt;
+}
+.judul{
+	text-align: center;
+	font-family: sans-serif;
+	color: f7a987;
+	font-weight: bold;
+	font-size: 18pt;
+}
+.tulisan{
+	text-align: ;
+	color: #eee;
+	font-weight: normal;
+}
+
